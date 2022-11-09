@@ -1,7 +1,7 @@
 {
   "name": "ai-gallery",
   "version": "0.1.0",
-  "homepage": "https://github.com/tflannagan/AI-Art-Gallery",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
