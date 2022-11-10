@@ -59,7 +59,7 @@ function App() {
         <img className="open" alt="img" src={require("./assets/img-40.jpg")} />         
       </section>
      
-      <h3 align="center">Artists:</h3>
+      <h3 align="center">Prompt Engineers:</h3>
       <p align="center">Alex & Ty Flannagan</p>
   
     
