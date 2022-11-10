@@ -29,8 +29,8 @@ function App() {
         <img alt="img" src={require("./assets/img-18.png")} />
         <img alt="img" src={require("./assets/img-19.png")} />
         <img alt="img" src={require("./assets/img-20.png")} />
-        <img alt="img" src={require("./assets/img-21.png")} />
-        <img alt="img" src={require("./assets/img-22.png")} />
+        <img alt="img" src={require("./assets/img-47.jpg")} />
+        <img alt="img" src={require("./assets/img-48.jpg")} />
         <img alt="img" src={require("./assets/img-23.png")} />
         <img className="open" alt="img" src={require("./assets/img-24.png")} />
         <img alt="img" src={require("./assets/img-25.png")} />
@@ -47,16 +47,16 @@ function App() {
         <img className="open" alt="img" src={require("./assets/img-36.png")} />
         <img alt="img" src={require("./assets/img-37.png")} />
         <img alt="img" src={require("./assets/img-38.png")} />    
-        <img alt="img" src={require("./assets/img-29.png")} />
         <img alt="img" src={require("./assets/img-4.png")} />
         <img alt="img" src={require("./assets/img-5.png")} />
         <img alt="img" src={require("./assets/img-6.png")} />
         <img alt="img" src={require("./assets/img-14.png")} />
         <img alt="img" src={require("./assets/img-15.png")} />
         <img alt="img" src={require("./assets/img-16.png")} />
-        <img className="open" alt="img" src={require("./assets/img-36.png")} />
-        <img alt="img" src={require("./assets/img-37.png")} />
-        <img alt="img" src={require("./assets/img-38.png")} />           
+        <img alt="img" src={require("./assets/img-21.png")} />
+        <img alt="img" src={require("./assets/img-22.png")} />
+        <img alt="img" src={require("./assets/img-39.jpg")} />  
+        <img className="open" alt="img" src={require("./assets/img-40.jpg")} />         
       </section>
      
       <h3 align="center">Artists:</h3>
