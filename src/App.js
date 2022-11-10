@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 
 function App() {
  
@@ -11,9 +12,9 @@ function App() {
         <img  alt="img" src={require("./assets/img-1.png")} />
         <img alt="img" src={require("./assets/img-3.png")} />
         <img alt="img" src={require("./assets/img-2.png")} />
-        <img alt="img" src={require("./assets/img-4.png")} />
-        <img alt="img" src={require("./assets/img-5.png")} />
-        <img alt="img" src={require("./assets/img-6.png")} />
+        <img alt="img" src={require("./assets/img-41.jpg")} />
+        <img alt="img" src={require("./assets/img-42.jpg")} />
+        <img alt="img" src={require("./assets/img-43.jpg")} />
         <img alt="img" src={require("./assets/img-7.png")} />
         <img alt="img" src={require("./assets/img-8.png")} />
         <img alt="img" src={require("./assets/img-9.png")} />
@@ -21,9 +22,9 @@ function App() {
         <img alt="img" src={require("./assets/img-11.png")} />
         <img className="open" alt="img" src={require("./assets/img-12.png")} />
         <img  alt="img" src={require("./assets/img-13.png")} />
-        <img  alt="img" src={require("./assets/img-14.png")} />
-        <img alt="img" src={require("./assets/img-15.png")} />
-        <img alt="img" src={require("./assets/img-16.png")} />
+        <img  alt="img" src={require("./assets/img-45.jpg")} />
+        <img alt="img" src={require("./assets/img-44.jpg")} />
+        <img alt="img" src={require("./assets/img-46.jpg")} />
         <img alt="img" src={require("./assets/img-17.png")} />
         <img alt="img" src={require("./assets/img-18.png")} />
         <img alt="img" src={require("./assets/img-19.png")} />
@@ -45,7 +46,17 @@ function App() {
         <img alt="img" src={require("./assets/img-35.png")} />
         <img className="open" alt="img" src={require("./assets/img-36.png")} />
         <img alt="img" src={require("./assets/img-37.png")} />
-        <img alt="img" src={require("./assets/img-38.png")} />              
+        <img alt="img" src={require("./assets/img-38.png")} />    
+        <img alt="img" src={require("./assets/img-29.png")} />
+        <img alt="img" src={require("./assets/img-4.png")} />
+        <img alt="img" src={require("./assets/img-5.png")} />
+        <img alt="img" src={require("./assets/img-6.png")} />
+        <img alt="img" src={require("./assets/img-14.png")} />
+        <img alt="img" src={require("./assets/img-15.png")} />
+        <img alt="img" src={require("./assets/img-16.png")} />
+        <img className="open" alt="img" src={require("./assets/img-36.png")} />
+        <img alt="img" src={require("./assets/img-37.png")} />
+        <img alt="img" src={require("./assets/img-38.png")} />           
       </section>
      
       <h3 align="center">Artists:</h3>
