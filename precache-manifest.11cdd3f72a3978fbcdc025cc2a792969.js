@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "daa682f7aab26402218a",
+    "revision": "4f031abfbb014822c661",
     "url": "/AI-Art-Gallery/static/css/main.abec2aa4.chunk.css"
   },
   {
-    "revision": "daa682f7aab26402218a",
-    "url": "/AI-Art-Gallery/static/js/main.daa682f7.chunk.js"
+    "revision": "4f031abfbb014822c661",
+    "url": "/AI-Art-Gallery/static/js/main.4f031abf.chunk.js"
   },
   {
     "revision": "c9b44b48ec3ae4b88dff",
@@ -500,7 +500,7 @@ self.__precacheManifest = [
     "url": "/AI-Art-Gallery/static/media/img-120.da6a1f40.png"
   },
   {
-    "revision": "fc2e5b480acbc917af0f58f1e73658b3",
+    "revision": "e27abdc48fdf6433ef037c0fdf1e543c",
     "url": "/AI-Art-Gallery/index.html"
   }
 ];
