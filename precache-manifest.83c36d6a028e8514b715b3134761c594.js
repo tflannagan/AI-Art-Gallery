@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "4f031abfbb014822c661",
-    "url": "/AI-Art-Gallery/static/css/main.abec2aa4.chunk.css"
+    "revision": "2fc095e5cfba24a24910",
+    "url": "/AI-Art-Gallery/static/css/main.6b359566.chunk.css"
   },
   {
-    "revision": "4f031abfbb014822c661",
-    "url": "/AI-Art-Gallery/static/js/main.4f031abf.chunk.js"
+    "revision": "2fc095e5cfba24a24910",
+    "url": "/AI-Art-Gallery/static/js/main.2fc095e5.chunk.js"
   },
   {
-    "revision": "c9b44b48ec3ae4b88dff",
-    "url": "/AI-Art-Gallery/static/js/1.c9b44b48.chunk.js"
+    "revision": "9240f9f763df1a6e54e0",
+    "url": "/AI-Art-Gallery/static/js/1.9240f9f7.chunk.js"
   },
   {
-    "revision": "7587d2c9267632307ee0",
-    "url": "/AI-Art-Gallery/static/js/2.7587d2c9.chunk.js"
+    "revision": "79593d273332ab5aa36a",
+    "url": "/AI-Art-Gallery/static/css/2.5a7360f6.chunk.css"
   },
   {
-    "revision": "c58f0d5f2536a3ec0003",
-    "url": "/AI-Art-Gallery/static/js/runtime~main.c58f0d5f.js"
+    "revision": "79593d273332ab5aa36a",
+    "url": "/AI-Art-Gallery/static/js/2.79593d27.chunk.js"
+  },
+  {
+    "revision": "9bb9c57bffc6f1796286",
+    "url": "/AI-Art-Gallery/static/js/runtime~main.9bb9c57b.js"
   },
   {
     "revision": "9a79f110d6224bc0787b406f4d768281",
@@ -108,16 +112,16 @@ self.__precacheManifest = [
     "url": "/AI-Art-Gallery/static/media/img-48.2a27015c.jpg"
   },
   {
-    "revision": "20285819d338b07f7fa091811c23207e",
-    "url": "/AI-Art-Gallery/static/media/img-23.20285819.png"
-  },
-  {
     "revision": "289fdeef34f767802446453c67bfb160",
     "url": "/AI-Art-Gallery/static/media/img-24.289fdeef.png"
   },
   {
     "revision": "89ccc0b76ee21bf46ba19f8e226a3711",
     "url": "/AI-Art-Gallery/static/media/img-25.89ccc0b7.png"
+  },
+  {
+    "revision": "20285819d338b07f7fa091811c23207e",
+    "url": "/AI-Art-Gallery/static/media/img-23.20285819.png"
   },
   {
     "revision": "e669af6d0be43ab1e0d4b6678c9e5005",
@@ -170,38 +174,6 @@ self.__precacheManifest = [
   {
     "revision": "3b02aac9220fb5308c66fdfde6e23c07",
     "url": "/AI-Art-Gallery/static/media/img-38.3b02aac9.png"
-  },
-  {
-    "revision": "18725b334847b5233c566c1bcc13b079",
-    "url": "/AI-Art-Gallery/static/media/img-4.18725b33.png"
-  },
-  {
-    "revision": "ac82eb6d1bb3664d8190634c6c21af7a",
-    "url": "/AI-Art-Gallery/static/media/img-5.ac82eb6d.png"
-  },
-  {
-    "revision": "1f00b5f5251c2c3b0ac9d123a1281680",
-    "url": "/AI-Art-Gallery/static/media/img-6.1f00b5f5.png"
-  },
-  {
-    "revision": "fee2488a448cae97a110dcbe32c9b905",
-    "url": "/AI-Art-Gallery/static/media/img-14.fee2488a.png"
-  },
-  {
-    "revision": "bb3c37c764214e02f04ba81ba2ec5f0d",
-    "url": "/AI-Art-Gallery/static/media/img-15.bb3c37c7.png"
-  },
-  {
-    "revision": "91f1d92e165d5a4dafc1f8ff4f0f584f",
-    "url": "/AI-Art-Gallery/static/media/img-16.91f1d92e.png"
-  },
-  {
-    "revision": "52ff2250ee483d4b664c2b8389572c3c",
-    "url": "/AI-Art-Gallery/static/media/img-21.52ff2250.png"
-  },
-  {
-    "revision": "13f7e11c8b98851c6543ea432cb7c074",
-    "url": "/AI-Art-Gallery/static/media/img-22.13f7e11c.png"
   },
   {
     "revision": "1a17eddd5bc9a920385ba23127f3465e",
@@ -428,79 +400,7 @@ self.__precacheManifest = [
     "url": "/AI-Art-Gallery/static/media/img-102.510c1165.png"
   },
   {
-    "revision": "61baf4ae045519ff4e19fbf1c950ad17",
-    "url": "/AI-Art-Gallery/static/media/img-103.61baf4ae.png"
-  },
-  {
-    "revision": "5993de841ecce48df32c912575b00074",
-    "url": "/AI-Art-Gallery/static/media/img-104.5993de84.png"
-  },
-  {
-    "revision": "3ab2dd31369e85a6a79e0fbfa4290d17",
-    "url": "/AI-Art-Gallery/static/media/img-105.3ab2dd31.png"
-  },
-  {
-    "revision": "67c1caf08ffe2a2ec57bd8d3b4757e69",
-    "url": "/AI-Art-Gallery/static/media/img-106.67c1caf0.png"
-  },
-  {
-    "revision": "d358199067f651a5ed255c78cb46924f",
-    "url": "/AI-Art-Gallery/static/media/img-107.d3581990.png"
-  },
-  {
-    "revision": "b0b1c6d2e2c4632d2146803563e3106c",
-    "url": "/AI-Art-Gallery/static/media/img-108.b0b1c6d2.png"
-  },
-  {
-    "revision": "48b2bcc2e8e7c4da542e7695835b720f",
-    "url": "/AI-Art-Gallery/static/media/img-109.48b2bcc2.png"
-  },
-  {
-    "revision": "41e363bb007c0f0093d60c34770ca055",
-    "url": "/AI-Art-Gallery/static/media/img-110.41e363bb.png"
-  },
-  {
-    "revision": "c60010b4f636d30320fcc663e8774e3d",
-    "url": "/AI-Art-Gallery/static/media/img-111.c60010b4.png"
-  },
-  {
-    "revision": "78fe6296db787361a8d2b0bb6db61ee8",
-    "url": "/AI-Art-Gallery/static/media/img-112.78fe6296.png"
-  },
-  {
-    "revision": "26765619433339fd5e391015e5dc7082",
-    "url": "/AI-Art-Gallery/static/media/img-113.26765619.png"
-  },
-  {
-    "revision": "69d37cfe3c4433003e0fbd6dd38a81de",
-    "url": "/AI-Art-Gallery/static/media/img-114.69d37cfe.png"
-  },
-  {
-    "revision": "4d6db8a9017954fde3b55b9856464fa2",
-    "url": "/AI-Art-Gallery/static/media/img-115.4d6db8a9.png"
-  },
-  {
-    "revision": "df506991a5fe100f3af97d745b626613",
-    "url": "/AI-Art-Gallery/static/media/img-116.df506991.png"
-  },
-  {
-    "revision": "e7be9a6d2b922b0f4d087a5112643c26",
-    "url": "/AI-Art-Gallery/static/media/img-117.e7be9a6d.png"
-  },
-  {
-    "revision": "d9944950f4ba7d3a95ae3d23d2ed0a21",
-    "url": "/AI-Art-Gallery/static/media/img-118.d9944950.png"
-  },
-  {
-    "revision": "8435eaf20b8bbf06ce2f2a1dc5baa356",
-    "url": "/AI-Art-Gallery/static/media/img-119.8435eaf2.png"
-  },
-  {
-    "revision": "da6a1f403712b49b7cbda03135c1cb95",
-    "url": "/AI-Art-Gallery/static/media/img-120.da6a1f40.png"
-  },
-  {
-    "revision": "e27abdc48fdf6433ef037c0fdf1e543c",
+    "revision": "cb65ec8f9810e1b4c68ef02fe4c37f96",
     "url": "/AI-Art-Gallery/index.html"
   }
 ];
