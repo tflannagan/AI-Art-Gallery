@@ -38,7 +38,9 @@ function App(image) {
            <img className="image" alt="img" src={require("./images/img-20.png")} />  
            <img className="image" alt="img" src={require("./images/img-21.png")} />
            <img className="image" alt="img" src={require("./images/img-22.png")} />
-           <img className="image" alt="img" src={require("./images/img-23.png")} />      
+           <img className="image" alt="img" src={require("./images/img-23.png")} />    
+           <img className="image" alt="img" src={require("./images/img-24.png")} />    
+           <img className="image" alt="img" src={require("./images/img-25.png")} />    
           
        {/* //Lazy Loaded Images */}
           
