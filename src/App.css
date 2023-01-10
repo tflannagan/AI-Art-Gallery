@@ -75,7 +75,7 @@ section {
   overflow-y: auto;
   align-content: center;
   justify-content: center;
-  padding: 1rem 2rem 1rem 2rem;
+  padding: 1rem 4rem 1rem 4rem;
 }
 
 .image {
@@ -87,7 +87,7 @@ section {
   border: 2px solid #373737;
   object-fit: contain;
   border-radius: 40px;
-  margin: 2rem 8rem 1rem 8rem;
+  margin: 2rem 10rem 1rem 10rem;
   cursor: default;
   transition: width 1s ease-in-out;
   overflow: auto;
