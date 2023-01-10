@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d916811ef2abb90a4883",
-    "url": "/AI-Art-Gallery/static/css/main.6a299158.chunk.css"
+    "revision": "442d9a0710d4af2d9080",
+    "url": "/AI-Art-Gallery/static/css/main.533d7747.chunk.css"
   },
   {
-    "revision": "d916811ef2abb90a4883",
-    "url": "/AI-Art-Gallery/static/js/main.d916811e.chunk.js"
+    "revision": "442d9a0710d4af2d9080",
+    "url": "/AI-Art-Gallery/static/js/main.442d9a07.chunk.js"
   },
   {
-    "revision": "8549b66a48c276059045",
-    "url": "/AI-Art-Gallery/static/js/1.8549b66a.chunk.js"
+    "revision": "ae4700ead3b6e1632dda",
+    "url": "/AI-Art-Gallery/static/js/1.ae4700ea.chunk.js"
   },
   {
-    "revision": "3515db196b22287661c5",
-    "url": "/AI-Art-Gallery/static/css/2.5a7360f6.chunk.css"
+    "revision": "7587d2c9267632307ee0",
+    "url": "/AI-Art-Gallery/static/js/2.7587d2c9.chunk.js"
   },
   {
-    "revision": "3515db196b22287661c5",
-    "url": "/AI-Art-Gallery/static/js/2.3515db19.chunk.js"
-  },
-  {
-    "revision": "0ac9b9d18d6f365b114d",
-    "url": "/AI-Art-Gallery/static/js/runtime~main.0ac9b9d1.js"
+    "revision": "bb2c165a5ee6fdb16a74",
+    "url": "/AI-Art-Gallery/static/js/runtime~main.bb2c165a.js"
   },
   {
     "revision": "ebbadafee7816020ddac83c218a25e36",
@@ -128,7 +124,7 @@ self.__precacheManifest = [
     "url": "/AI-Art-Gallery/static/media/img-26.717f966b.png"
   },
   {
-    "revision": "fdbc16f56231ffd39838e278871016e4",
+    "revision": "b07b2115e0495509b9b17cdb2cf304ad",
     "url": "/AI-Art-Gallery/index.html"
   }
 ];
