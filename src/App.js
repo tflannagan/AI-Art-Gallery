@@ -1,21 +1,19 @@
 import './App.css';
 import React from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import Placeholder from './Placeholder'; //Placeholder component.
 //Import the css file if using blur, black and white, or opacity effects. 
-import 'react-lazy-load-image-component/src/effects/blur.css';
-
+// import 'react-lazy-load-image-component/src/effects/blur.css';
+ 
+//Components
 import Header from './components/Header';
 
 
-
-
-function App(image) {    
+function App() {    
   return (
     <>
      <Header />
-    
-      <section className="App">
+     <section className="App">
            <img className="image" alt="img" src={require("./images/img-1.png")} />
            <img className="image prof" alt="img" src={require("./images/img-6.jpg")} />
            <img className="image" alt="img" src={require("./images/img-17.png")} />            
