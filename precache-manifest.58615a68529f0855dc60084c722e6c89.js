@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/AI-Art-Gallery/static/media/img-26.717f966b.png"
   },
   {
-    "revision": "944cf5d9c84c4d9a706569548dee1b00",
+    "revision": "1dc3a02f822a93d0fb12a08f150eeba6",
     "url": "/AI-Art-Gallery/index.html"
   }
 ];
