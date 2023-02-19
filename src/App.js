@@ -184,6 +184,104 @@ function App() {
           alt="img"
           src={require("./images/img-26.png")}
         />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-27.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-28.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-29.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-30.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-31.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-32.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-33.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-34.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-35.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-36.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-37.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-38.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-39.png")}
+        />
+
+        <img
+          className="image"
+          loading="lazy"
+          alt="img"
+          src={require("./images/img-40.png")}
+        />
       </section>
 
       <h3 align="center">Prompt Engineers:</h3>
