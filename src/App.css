@@ -255,6 +255,9 @@ body::-webkit-scrollbar-thumb {
     align-items: center;
   }
 
+  footer-container {
+    display: flex;
+  }
  
   
 }
