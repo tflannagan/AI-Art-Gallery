@@ -1,6 +1,4 @@
-# AI Art Gallery: A Virtual Stroll Through the Future of Creativity
-
-![AI Art Gallery Banner](./assets/banner.png)
+# AI Art Gallery
 
 AI Art Gallery is a web-based platform that showcases the convergence of artificial intelligence and creativity. This gallery exhibits AI-generated artworks, allowing visitors to experience the cutting-edge intersection of technology and art.
 
