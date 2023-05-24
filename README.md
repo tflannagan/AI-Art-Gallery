@@ -10,6 +10,8 @@ Art and artificial intelligence may seem like strange bedfellows, but in the AI 
 
 This project is brought to life by [Ty Flannagan](https://www.tyflannagan.tech/), a software developer dedicated to exploring and pushing the boundaries of technology.
 
+[Live Site](https://tflannagan.github.io/AI-Art-Gallery/) 
+
 ## 🔥 Main Features
 
 - **Virtual Gallery**: Experience the future of art through an immersive online gallery.
